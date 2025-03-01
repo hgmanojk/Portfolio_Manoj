@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+ HEAD
 # My_Portfolio
 
-<<<<<<< HEAD
+ HEAD
 (Your local changes here)
 
 (Remote changes from GitHub)
